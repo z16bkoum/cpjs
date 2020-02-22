@@ -1,0 +1,35 @@
+
+    body {
+        Background-image:
+
+        Linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+        
+        Linear-gradient(127deg, black, black 70.71%),
+        
+        Linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+                background-color: peachpuff;
+       }
+    .lien{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+      
+    }
+    li .lien{
+        color: white;
+
+    }
+.lien{justify-content: center; align-items: center;
+}
+
+.block1 { width: 100%; height: 505px; background-size: cover; background-repeat: no-repeat;background-position: center center;
+ }
+ .block1 img{background-image: url(connect.png); width: 100%; height: 505px; background-size: cover; background-repeat: no-repeat;background-position: center center;
+
+
+ }
+.block2 {background-image:url(image-wallpapers-abstrait-hd-07.jpg); width: 100%; height: 505px; background-size: cover; background-repeat: no-repeat;background-position: center center;
+}
+.block3 {background-image: url(155_1549975963.png);  width: 100%; height: 505px; background-size: cover; background-repeat: no-repeat;background-position: center center;
+    ;}
+.block4 {justify-content:flex-end; display: flex; }
+.block3 h1 { justify-content:flex-end;display: flex;}
+.block4 h4, p {font-family: cursive; color: thistle;}
